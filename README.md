@@ -1,4 +1,5 @@
-# Stock Market Prediction And Forecasting Using Stacked LSTM
+# Music Recommendation System
+ 
+Music recommender systems can suggest songs to users based on their listening patterns.
 
-Datasetlinks: : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
-
+Dataset Link: https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
